@@ -1,5 +1,5 @@
 #include <stdio.h>
 int main(int argc, char *argv[])
 {
-printf ("Howdy %s",argv[1]);
+printf("howdy %s",argv[1]);
 }
